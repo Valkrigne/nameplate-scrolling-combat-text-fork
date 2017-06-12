@@ -1,0 +1,25 @@
+NameplateSCT:
+    Animations:
+        ☐ Better animation system (register animations)
+        ☐ Animation settings for each animation type
+        ☐ Preemptive scrolling/sticky
+        ☐ New animations?
+            ☐ Shake
+            ☐ Stacked fade out
+            ☐ "Cloud"
+
+    Coloring:
+        ☐ School coloring for multi-school damage
+        ☐ Use better colors for things, the default colors blow
+
+    Menu:
+        ☐ Add missing options
+            ☐ offsets
+    Misc:
+        ☐ Be able to specify in-front/behind nameplates
+        ☐ Make sure that crits have a higher strata than non-crits
+        ☐ Specify format string? Be able to have no numbers
+        ☐ Merge damage events
+        ☐ Minimum damage
+        ☐ Add comma seperator
+        ☐ Max number of texts
